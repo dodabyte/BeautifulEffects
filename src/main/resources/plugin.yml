@@ -1,0 +1,13 @@
+name: BeautifulEffects
+version: '${project.version}'
+main: ru.dodabyte.beautifuleffects.BeautifulEffectsMain
+api-version: 1.19
+authors: [ dodabyte ]
+description: Beautiful effects created when starting a battle with a player or shooting an arrow.
+website: https://github.com/dodabyte
+commands:
+  beautifuleffects:
+    aliases:
+      - be
+
+    description: The plugin configuration command.

@@ -1,0 +1,13 @@
+ru\dodabyte\beautifuleffects\effects\event\CreateEffectsMelee.class
+ru\dodabyte\beautifuleffects\menu\EffectsMenu.class
+ru\dodabyte\beautifuleffects\menu\EffectsItemSlot.class
+ru\dodabyte\beautifuleffects\effects\event\CreateEffectsBow.class
+ru\dodabyte\beautifuleffects\menu\event\DragMenuItem.class
+ru\dodabyte\beautifuleffects\commands\GeneralCommands.class
+ru\dodabyte\beautifuleffects\items\MenuItem.class
+ru\dodabyte\beautifuleffects\effects\EffectsSelection.class
+ru\dodabyte\beautifuleffects\BeautifulEffectsMain.class
+ru\dodabyte\beautifuleffects\menu\event\OpenMenu.class
+ru\dodabyte\beautifuleffects\menu\MenuSlot.class
+ru\dodabyte\beautifuleffects\effects\Effects.class
+ru\dodabyte\beautifuleffects\effects\ParticleArrow.class
