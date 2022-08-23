@@ -15,4 +15,4 @@ This plugin is compatible with Spigot. Using CraftBukkit will not work. The vers
 
 ### Compilation
 
-BeautifulEffects uses Maven to compile and build the plugin. Run maven package in your IDE to build the jar. The plugin jar will be located in folder `target` when finished.
+BeautifulEffects uses Maven to compile and build the plugin. Run `maven package` in your IDE to build the jar. The plugin jar will be located in folder `target` when finished.
